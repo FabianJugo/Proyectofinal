@@ -1,0 +1,72 @@
+.header {
+    grid-area: header;
+    background-color: $coloruno;
+    width: 100%;
+}
+
+.logo {
+    text-decoration: none;
+    color: $colorsiete;
+    display: inline-block;
+    padding: 5px;
+    font-family: fantasy;
+    &:hover {
+        color: $colordos;
+        border-radius: 4px;
+    }
+}
+
+.header_registro {
+    grid-area: header;
+    background-color: $coloruno;
+    width: 100%;
+}
+
+.logo_registro {
+    text-decoration: none;
+    color: $colorsiete;
+    display: inline-block;
+    padding: 5px;
+    font-family: fantasy;
+    &:hover {
+        color: $colordos;
+        border-radius: 4px;
+    }
+}
+
+.header_contacto {
+    grid-area: header;
+    background-color: $coloruno;
+    width: 100%;
+}
+
+.logo {
+    text-decoration: none;
+    color: $colorsiete;
+    display: inline-block;
+    padding: 5px;
+    font-family: fantasy;
+    &:hover {
+        color: $colordos;
+        border-radius: 4px;
+    }
+}
+
+.header_premium {
+    grid-area: header;
+    background-color: $coloruno;
+    width: 100%;
+}
+
+.logo_premium {
+    text-decoration: none;
+    color: $colorsiete;
+    display: inline-block;
+    padding: 5px;
+    font-family: fantasy;
+    &:hover {
+        color: $colordos;
+        border-radius: 4px;
+    }
+}
+
